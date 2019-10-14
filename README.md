@@ -1,6 +1,6 @@
 # expo-redux-starter
 
-To get started run `yarn install` and then either launch the app with the expo CLI (`expo start`) or run the repository with the SDK (https://expo.io/tools#sdk). You'll have to create a free account and log in if you haven't done so already.
+To get started run `npm install` and then either launch the app with the expo CLI (`expo start`) or run the repository with the SDK (https://expo.io/tools#sdk). You'll have to create a free account and log in if you haven't done so already.
 
 You'll also need to install the client app on your phone (https://expo.io/tools#client).
 
@@ -20,9 +20,3 @@ Any app that becomes relatively complex benefits from a more deterministic and o
 
 #### [react-navigation](https://reactnavigation.org/)
 Included by default in Expo's boilerplate, seems to do everything I've needed to do so far
-
-#### [wretch](https://github.com/elbywan/wretch)
-Pulls in some useful functionality to reduce boilerplate for your actions, makes handling `fetch` calls real easy
-
-#### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-Easy enough to get up and running with an example (free) API that offers some relational data to set up a few screens
